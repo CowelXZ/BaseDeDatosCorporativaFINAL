@@ -12,7 +12,6 @@ import networkx as nx
 import numpy as np
 import warnings
 
-# Ignoramos advertencias para una salida limpia
 warnings.filterwarnings('ignore')
 
 # =============================================================================
